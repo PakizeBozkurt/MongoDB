@@ -6,3 +6,7 @@
 //Operational insights
 //Backups with point-in-time restore
 //Online Archive
+// 2 types 
+//Servesless instances
+//Cluters => 1- Shared
+//           2- Dedicated
