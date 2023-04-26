@@ -1,4 +1,8 @@
 // MongoDB is a general-purpose document database. 
 //Developer data platform
 //Database as a service
-//
+
+//Atlas
+//Operational insights
+//Backups with point-in-time restore
+//Online Archive
