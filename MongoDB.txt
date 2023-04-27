@@ -2,7 +2,7 @@
 //Developer data platform
 //Database as a service
 
-//Atlas
+//Atlas, MongoDB's cloud based developer data platform.
 //Operational insights
 //Backups with point-in-time restore
 //Online Archive
