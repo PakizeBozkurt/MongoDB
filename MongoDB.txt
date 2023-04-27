@@ -14,3 +14,5 @@
 // *          2- Dedicated
 
 ////Document is the basic unit of data in MongoDB.
+////Collection is a grouping of those  documents.
+////Database is a container for collections.
