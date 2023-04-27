@@ -1,4 +1,4 @@
-// MongoDB is a general-purpose document database. 
+// MongoDB is a general-purpose document database (Similer to JSON objects). 
 
 //*Developer data platform
 //*Database as a service
@@ -13,6 +13,6 @@
 //*Cluters => 1- Shared
 // *          2- Dedicated
 
-////Document is the basic unit of data in MongoDB.
+////Document (offers a flexible and developer-friendly way to work with data) is the basic unit of data in MongoDB.
 ////Collection is a grouping of those  documents.
 ////Database is a container for collections.
