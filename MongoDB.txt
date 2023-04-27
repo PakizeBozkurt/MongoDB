@@ -1,12 +1,16 @@
 // MongoDB is a general-purpose document database. 
-//Developer data platform
-//Database as a service
+
+//*Developer data platform
+//*Database as a service
 
 //Atlas, MongoDB's cloud based developer data platform.
-//Operational insights
-//Backups with point-in-time restore
-//Online Archive
-// 2 types 
-//Servesless instances
-//Cluters => 1- Shared
-//           2- Dedicated
+
+//*Operational insights
+//*Backups with point-in-time restore
+//*Online Archive
+//* 2 types 
+//*Servesless instances
+//*Cluters => 1- Shared
+// *          2- Dedicated
+
+////Document is the basic unit of data in MongoDB.
