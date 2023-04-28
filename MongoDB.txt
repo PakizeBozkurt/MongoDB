@@ -23,3 +23,6 @@
 
 //ObjectID to create unique identifiers.
 //*Every document requires an _id field, which acts as a primary key.
+
+////** MongoDB flexible schema
+////**Iterate quickly and evole
