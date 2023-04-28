@@ -16,3 +16,7 @@
 ////Document (offers a flexible and developer-friendly way to work with data) is the basic unit of data in MongoDB.
 ////Collection is a grouping of those  documents.
 ////Database is a container for collections.
+
+//Data types
+//All JSON data types
+//Dates, Numbers, ObjectIDs and more!
