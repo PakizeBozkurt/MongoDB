@@ -35,3 +35,4 @@
 
 //Standart format: Used to connect to standalone clusters, replica sets, or shared clusters.
 //DNS seed list format: Provides a DNS server list to our connection string.
+//DNS gives more flexiblity of deployment ability to change servers in rotation without reconfiguring clients.
