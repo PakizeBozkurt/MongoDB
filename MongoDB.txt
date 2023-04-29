@@ -32,4 +32,6 @@
 //Allows us to connect to our cluster and workwith our data.
 //*Standart format
 //*DNS seed list format
-//Standart format: used to connect to standalone clusters, replica sets, or shared clusters.
+
+//Standart format: Used to connect to standalone clusters, replica sets, or shared clusters.
+//DNS seed list format: Provides a DNS server list to our connection string.
