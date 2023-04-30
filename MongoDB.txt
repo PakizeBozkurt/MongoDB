@@ -38,4 +38,5 @@
 //DNS gives more flexiblity of deployment ability to change servers in rotation without reconfiguring clients.
 
 //***MongoDB shell is a Node.js REPL environment.
-This gives us access to JS variables, functions, conditionals, Loops, control flow statments inside of the shell.
++ This gives us access to JS variables, functions, conditionals, Loops, control flow statments inside of the shell.
++ Located the MongoDB shell connection string.
