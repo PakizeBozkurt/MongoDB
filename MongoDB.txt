@@ -40,3 +40,4 @@
 //***MongoDB shell is a Node.js REPL environment.
 + This gives us access to JS variables, functions, conditionals, Loops, control flow statments inside of the shell.
 + Located the MongoDB shell connection string.
++ Connected to the MongoDB sell by using the connection string.
