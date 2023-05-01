@@ -46,3 +46,4 @@
 //MongoDB Compass
 It is a graphical user interface, or GUI, that allows us to query and analyse our data, and compose aggregation pipelines.
 MongoDB drives connect our application to our database by using a connection string.
+***User authentication protects access to our data!
