@@ -42,3 +42,6 @@
 + Located the MongoDB shell connection string.
 + Connected to the MongoDB sell by using the connection string.
 + Used the Node.js REPL environment to create JS expressions.
+
+//MongoDB Compass
+It is a graphical user interface, or GUI, that allows us to query and analyse our data, and compose aggregation pipelines.
