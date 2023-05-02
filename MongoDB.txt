@@ -56,3 +56,9 @@ Insert and find document
 $in operator allows us to select all documents that have a field value equal to any of the values specified in the array.
 $eq operator to find documents with a field and value.
 $in operator to select documents equal to the values specified with in the array.
+
+Finding documents by using compararison operators:
+$gt(greater than)
+$gte(greater than or equal to)
+$lt(less than)
+$lte(less than or equal to)
