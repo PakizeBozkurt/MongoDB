@@ -53,4 +53,5 @@ Insert and find document
 +insertOne() =>for single db.bclubmember.insertOne()
 +insertMany() =>for multiple db.bclubmembers.insertMany()
 
-$in operatior allows us to select all documents that have a field value equal to any of the values specified in the array.
+$in operator allows us to select all documents that have a field value equal to any of the values specified in the array.
+$eq operator to find documents with a field and value.
