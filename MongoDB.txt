@@ -51,4 +51,4 @@ MongoDB drives connect our application to our database by using a connection str
 //CRUD Operations
 Insert and find document
 +insertOne() =>for single db.bclubmember.insertOne()
-+insertMany() =>for multiple
++insertMany() =>for multiple db.bclubmembers.insertMany()
