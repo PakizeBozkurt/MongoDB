@@ -70,3 +70,7 @@ db.books.find({genre:["Historical", "Finctional"]})
 //Finding documents $and $or
 db.Collection.find({<expression>, <expression>) =>and
 db.routes.find({$and:[{$or:[{dst_aitport:"SEA"}]}]})
+
+//Replace documents
+*replaceOne()
+db.collection.replaceOne(filter, replacement, options)
