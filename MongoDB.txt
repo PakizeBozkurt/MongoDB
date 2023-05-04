@@ -66,3 +66,7 @@ $lte(less than or equal to)
 //Query arrays in documents:
 $elemMatch: { $eq:" "}
 db.books.find({genre:["Historical", "Finctional"]})
+
+//Finding documents $and $or
+db.Collection.find({<expression>, <expression>) =>and
+db.routes.find({$and:[{$or:[{dst_aitport:"SEA"}]}]})
