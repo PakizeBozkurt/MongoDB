@@ -74,3 +74,6 @@ db.routes.find({$and:[{$or:[{dst_aitport:"SEA"}]}]})
 //Replace documents
 *replaceOne()
 db.collection.replaceOne(filter, replacement, options)
+filter: A query that matches the document to replace.
+replacement: The new document to replace to old one.
+options: An object that specifies options for the replacement.
