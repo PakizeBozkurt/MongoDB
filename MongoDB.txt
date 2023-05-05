@@ -92,3 +92,8 @@ $set operator: Adds new fields and values to a document
 ->Reduce cost
 
 ***Data that is accessed together should be stored together.
+
+Relationship types:
+one-to-one
+one-to-many
+many-to-many
