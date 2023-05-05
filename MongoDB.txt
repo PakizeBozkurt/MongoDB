@@ -83,3 +83,10 @@ Update operators:
 $set and $pushdb.collection.updateOne(<filter>, <update>, {options})
 $set operator: Adds new fields and values to a document
                Replaces the value of a field with a specified value.
+
+
+//A good data model can:
+->Make it easier to manage data.
+->Make queries more efficient
+->Useless memory an CPU
+->Reduce cost
