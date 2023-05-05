@@ -97,3 +97,7 @@ Relationship types:
 one-to-one
 one-to-many
 many-to-many
+
+Ways to model Relationship
+Embedding
+Referencing
