@@ -90,3 +90,5 @@ $set operator: Adds new fields and values to a document
 ->Make queries more efficient
 ->Useless memory an CPU
 ->Reduce cost
+
+***Data that is accessed together should be stored together.
