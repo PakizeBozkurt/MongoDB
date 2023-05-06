@@ -94,7 +94,7 @@ $set operator: Adds new fields and values to a document
 ***Data that is accessed together should be stored together.
 
 Relationship types:
-one-to-one
+one-to-one: A relationship where a data entity in one set is connected to exactly one data entity in another set.
 one-to-many
 many-to-many
 
