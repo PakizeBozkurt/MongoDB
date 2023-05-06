@@ -100,7 +100,7 @@ many-to-many: A relationship where any number of data entitles in one set are co
 
 Ways to model Relationship
 Embedding: We take related data and insert it into our document.
-Referencing
+Referencing: We refer to documents in another collection in our document.
 
 Atlas 
 Product Family
